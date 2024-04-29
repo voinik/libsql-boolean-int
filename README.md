@@ -22,3 +22,6 @@ WHERE
 ```
 
 Then I get this for the `isActive` column: `isActive boolean not null`, so you can see the column was defined as a boolean.
+
+Here's what it looks like in my browser:
+![Example of issue](./libsql-boolean-int-issue.png)
