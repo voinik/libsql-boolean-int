@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@libsql/client": "^0.6.0",
+    "@libsql/kysely-libsql": "^0.3.0",
+    "kysely": "^0.27.3",
+    "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
